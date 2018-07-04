@@ -4,7 +4,7 @@ test penggunaan git
 
 message = 'hello wordl!'
 nama = 'kamal OK'
-usia = 6
+usia = 17
 lingkar_perut = 20.5
 
 print (message)
